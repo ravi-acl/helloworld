@@ -1,3 +1,6 @@
 #Source code file for javascript
 
-alert('Git Hub Javascript alert for main app while loading');
+
+#Hardcoded alert message removed and parameterized
+alert(msg);
+
