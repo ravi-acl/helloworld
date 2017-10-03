@@ -1,3 +1,4 @@
 #Source code file for javascript
 
-alert('Git Hub Javascript');
+#Hardcoded alert message removed and parameterized
+alert(msg);
